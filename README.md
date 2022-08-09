@@ -1,2 +1,1 @@
-# vote-full
-vote web site
+# Vote
